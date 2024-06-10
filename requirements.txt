@@ -1,0 +1,3 @@
+langflow @ git+https://github.com/langflow-ai/langflow@v1.0.0a49
+python-dotenv
+streamlit
